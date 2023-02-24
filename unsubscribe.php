@@ -1,6 +1,6 @@
 <?php
 // Get the user's email address from the form submission
-$email = $_GET['email'];
+$email = $_POST['email'];
 
 // TODO: Implement code to remove the email address from your mailing list
 
